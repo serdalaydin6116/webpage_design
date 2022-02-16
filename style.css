@@ -357,4 +357,16 @@ h2{
         font-size: 0.7rem;
         
     }
+    .inner_dark h4{
+        font-size: 0.8rem;
+    }
+    .footer p{
+        padding-top: 0.8rem;
+        font-weight: 400;
+        font-size: 0.9rem;
+   }
+   .footer img{
+       padding-bottom: 0.8rem;
+       width: 7.5rem;
+   }
 }
